@@ -33,7 +33,8 @@ $ npm run dev
 </code></pre>
 </li>
 </ol>
-<p align="center"><img src="https://laravel.com/admin_category page.png"></p>
+![ScreenShot](https://raw.githubusercontent.com/allenchong8018/ff_shoppingcart/blob/master/screenshot/admin_category.png)
+
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
