@@ -1,0 +1,41 @@
+
+/* social-icons */
+
+	/* ================================================== */
+
+.social-icons {
+	display: inline-block;
+}
+.social-icons i {
+	text-shadow: none;
+	color: #fff;
+	text-align: center;
+	font-size: 26px;
+	border-radius: 1px;
+	-moz-border-radius: 1px;
+	-webkit-border-radius: 1px;
+	margin: 10px 0px 20px 0;
+	text-align: center!important; margin: 0; vertical-align: middle;line-height: 30px; font-size: 18px;
+}
+.social-icons i:hover {
+	color: #cc9136;
+}
+/*
+
+	.social-icons .fa-facebook{	background:#305fb3;	}
+
+	.social-icons .fa-twitter{	background:#00d7d5;	}
+
+	.social-icons .fa-rss{ background:#fca600;	}
+
+	.social-icons .fa-google-plus{ background:#d7482a;	}
+
+	.social-icons .fa-skype{ background:#12c7ef;	}
+
+	.social-icons .fa-dribbble{ background:#f06eaa;	}
+
+	*/
+
+	
+
+	

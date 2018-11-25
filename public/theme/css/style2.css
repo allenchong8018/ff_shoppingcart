@@ -1,0 +1,6 @@
+
+.topbar{ width: 100%; background-color:#226; padding:0px; color: #ccc; font-size: 11px; letter-spacing: 1px; height: 28px;}
+.account-link{ width: 100%; float: right;}
+.account-link ul{ margin: 0; padding: 0; list-style: none; text-align: right}
+.account-link ul li{ display: inline-block; margin-right: 0px; background:#333; text-align: right; position: relative; }
+.account-link ul li a{ display: block; padding: 0px 15px; line-height: 28px;color: #ccc!important;}
